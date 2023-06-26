@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: ImpactMissingOutcomesRegression
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Eduardo
+    family-names: Alarcón-Bustamante
+    email: esalarcon@mat.uc.cl
+    affiliation: Pontificia Universidad Católica de Chile
+    orcid: 'https://orcid.org/0000-0003-3121-483X'
+  - given-names: Inés M.
+    family-names: Varas
+    email: imvaras@mat.uc.cl
+    affiliation: Pontificia Universidad Católica de Chile
+  - given-names: Ernesto
+    family-names: San Martín
+    email: esanmart@mat.uc.cl
+    affiliation: Pontificia Universidad Católica de Chile
+url: >-
+  https://github.com/edalarconb/ImpactMissingOutcomesRegression
